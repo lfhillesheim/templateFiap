@@ -10,18 +10,21 @@
 
 ## Nome do grupo
 
+## Grupo 20
+
 ## 👨‍🎓 Integrantes: 
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 1</a>
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 2</a>
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 3</a> 
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 4</a> 
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 5</a>
+- <a href="https://www.linkedin.com/in/caiorcastro/">Caio Rodrigues Castro</a> 
+- <a href="https://www.linkedin.com/in/ederson-badeca/">Ederson Luiz Badeca dos Santos</a> 
+- <a href="https://www.linkedin.com/in/digitalmanagerfelipesoares/">Felipe Soares Nascimento</a>
+- <a href="https://www.linkedin.com/in/lfhillesheim/">Lucas Ferreira Hillesheim</a>
+- <a href="https://www.linkedin.com/in/luisfuturist/">Luís Fillipe Emidio</a>
+
 
 ## 👩‍🏫 Professores:
 ### Tutor(a) 
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do Tutor</a>
+- <a href="https://www.linkedin.com/in/lucas-gomes-moreira-15a8452a/">Lucas Gomes</a>
 ### Coordenador(a)
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do Coordenador</a>
+- <a href="https://www.linkedin.com/in/profandregodoi/">André Godoi Chiovato</a>
 
 
 ## 📜 Descrição
@@ -57,13 +60,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 * 0.5.0 - XX/XX/2024
     * 
 * 0.4.0 - XX/XX/2024
-    * 
-* 0.3.0 - XX/XX/2024
-    * 
-* 0.2.0 - XX/XX/2024
-    * 
-* 0.1.0 - XX/XX/2024
-    *
+
 
 ## 📋 Licença
 
